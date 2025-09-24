@@ -8,7 +8,11 @@ The dashboard enables HR teams and management to monitor workforce distribution,
 🔹 Key Features & Insights
 1. HR Analytics Overview
 
-Total Employees: 1470
+
+<img width="1293" height="733" alt="image" src="https://github.com/user-attachments/assets/8cc466b2-7d45-46e8-86f4-3e6fa427a4e2" />
+
+
+Employees: 1470
 
 Male Employees: 882 (60%)
 
@@ -46,6 +50,11 @@ Sales Executive: 16
 
 Employee-level table with Employee ID, Name, Gender, Promotion Status.
 
+
+
+<img width="1285" height="712" alt="image" src="https://github.com/user-attachments/assets/ea67f540-d0b0-409e-b031-7214d098cb0b" />
+
+
 📌 Visuals Included
 
 Promotions by Job Role
@@ -80,6 +89,11 @@ Excel / CSV → Data Source
 
 Data Cleaning → Power Query (ETL)
 
+
+<img width="1274" height="707" alt="image" src="https://github.com/user-attachments/assets/736fa122-0a67-4414-bae1-8f0b293326d4" />
+
+
+
 🔹 Business Value
 
 This dashboard helps HR and leadership teams to:
@@ -112,8 +126,5 @@ Explore interactive dashboards with filters (Gender, Department, Job Role).
 
 
 
-<img width="1293" height="733" alt="image" src="https://github.com/user-attachments/assets/8cc466b2-7d45-46e8-86f4-3e6fa427a4e2" />
 
-<img width="1285" height="712" alt="image" src="https://github.com/user-attachments/assets/ea67f540-d0b0-409e-b031-7214d098cb0b" />
 
-<img width="1274" height="707" alt="image" src="https://github.com/user-attachments/assets/736fa122-0a67-4414-bae1-8f0b293326d4" />
