@@ -1,3 +1,125 @@
+Here’s a **clean, professional, GitHub-ready README.md update** for your project.
+You can copy-paste this directly into your GitHub repository.
+
+---
+
+# 📊 HR Analytics Dashboard (Power BI)
+
+## 🔹 Project Overview
+
+This project demonstrates how **HR data can be transformed into actionable insights** using **Power BI**.
+The dashboard enables HR teams and leadership to monitor **workforce distribution, promotions, and retrenchment trends** across departments, job roles, and demographics—supporting data-driven HR decision-making.
+
+---
+
+## 🔹 Key Features & Insights
+
+### 1️⃣ HR Analytics Overview Dashboard
+
+![HR Overview](https://github.com/user-attachments/assets/8cc466b2-7d45-46e8-86f4-3e6fa427a4e2)
+
+**Workforce Summary**
+
+* 👥 **Total Employees:** 1,470
+* 👨 **Male Employees:** 882 (60%)
+* 👩 **Female Employees:** 588 (40%)
+
+**Employee Status**
+
+* ⬆️ **Promoted Employees:** 1,398 (95.1%)
+* ⏳ **Due for Promotion:** 72 (4.9%)
+* ❌ **Lay-offs:** 117
+* ✅ **On-Service Employees:** 1,353
+
+**📌 Visuals Included**
+
+* Employee distribution by **Job Level & Overtime**
+* **Promotion vs Lay-off** analysis by Department
+* Employee distribution by **Education Field**
+* **Average Monthly Income** by Job Role
+
+---
+
+### 2️⃣ Due for Promotion Dashboard
+
+![Due for Promotion](https://github.com/user-attachments/assets/ea67f540-d0b0-409e-b031-7214d098cb0b)
+
+* 📈 **72 employees** identified as **due for promotion**
+* **Top Job Roles Due for Promotion**
+
+  * Manager: 22
+  * Healthcare Representative: 16
+  * Sales Executive: 16
+
+**📌 Visuals Included**
+
+* Promotions due by **Job Role**
+* **Gender-wise** breakdown of employees due for promotion
+* Employee-level table with:
+
+  * Employee ID
+  * Name
+  * Gender
+  * Promotion Status
+
+---
+
+### 3️⃣ Due for Retrenchment Dashboard
+
+![Due for Retrenchment](https://github.com/user-attachments/assets/736fa122-0a67-4414-bae1-8f0b293326d4)
+
+* ⚠️ **117 employees** identified for retrenchment
+* **Most Affected Job Roles**
+
+  * Manager: 44
+  * Research Director: 20
+  * Sales Executive: 20
+
+**📌 Visuals Included**
+
+* Retrenchment analysis by **Job Role & Department**
+* **Gender-wise** retrenchment distribution
+* Employee-level table with:
+
+  * Employee ID
+  * Name
+  * Gender
+  * Department
+  * Lay-off Status
+
+---
+
+## 🔹 Tools & Technologies
+
+**power BI ** → Data Modeling, DAX measures, KPI creation, and interactive visualizations
+
+**SQL (MySQL)** → Data extraction, transformation, aggregation, business-rule implementation (promotion eligibility, retrenchment logic), and validation queries for Power BI dashboards
+
+**Excel / CSV** → Raw HR dataset used as the primary data source
+
+Power Query → Data cleaning, transformation, ETL processes, and data preparation before modeling
+
+---
+
+## 🔹 Business Value
+
+This dashboard enables HR and leadership teams to:
+
+* 📊 Track workforce demographics and distribution
+* 🚀 Identify employees due for promotion and support career planning
+* ⚠️ Monitor retrenchment risks across departments
+* 🧠 Improve **data-driven HR strategy and workforce planning**
+
+
+
+
+---
+
+## 📬 Contact
+
+If you have feedback or would like to collaborate, feel free to connect!
+
+
     Below are **clean, ready-to-use MySQL queries** that match your **HR Analytics Dashboard (Power BI)** metrics, visuals, and insights.
     You can use these queries directly for **Power BI, reporting, or validation**.
     
