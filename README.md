@@ -16,7 +16,7 @@ The dashboard enables HR teams and leadership to monitor **workforce distributio
 
 ### 1️⃣ HR Analytics Overview Dashboard
 
-![HR Overview](https://github.com/user-attachments/assets/8cc466b2-7d45-46e8-86f4-3e6fa427a4e2)
+<img width="1306" height="726" alt="image" src="https://github.com/user-attachments/assets/c3eee707-12f9-4ad1-afeb-fd73e51ab371" />
 
 **Workforce Summary**
 
@@ -42,7 +42,9 @@ The dashboard enables HR teams and leadership to monitor **workforce distributio
 
 ### 2️⃣ Due for Promotion Dashboard
 
-![Due for Promotion](https://github.com/user-attachments/assets/ea67f540-d0b0-409e-b031-7214d098cb0b)
+
+<img width="1303" height="736" alt="image" src="https://github.com/user-attachments/assets/c65ab5e6-482c-44ef-a4fc-a2fe695076d5" />
+
 
 * 📈 **72 employees** identified as **due for promotion**
 * **Top Job Roles Due for Promotion**
@@ -66,7 +68,7 @@ The dashboard enables HR teams and leadership to monitor **workforce distributio
 
 ### 3️⃣ Due for Retrenchment Dashboard
 
-![Due for Retrenchment](https://github.com/user-attachments/assets/736fa122-0a67-4414-bae1-8f0b293326d4)
+<img width="1305" height="730" alt="image" src="https://github.com/user-attachments/assets/3bbd855c-41a4-4629-a5a3-de2ee7aad039" />
 
 * ⚠️ **117 employees** identified for retrenchment
 * **Most Affected Job Roles**
@@ -86,6 +88,12 @@ The dashboard enables HR teams and leadership to monitor **workforce distributio
   * Gender
   * Department
   * Lay-off Status
+
+<img width="1276" height="718" alt="image" src="https://github.com/user-attachments/assets/a3e82e6f-2ee2-461d-bc90-1a25f3bf58d3" />
+
+
+<img width="1302" height="720" alt="image" src="https://github.com/user-attachments/assets/d4a83601-f01b-4428-962a-b84799890d7b" />
+
 
 ---
 
